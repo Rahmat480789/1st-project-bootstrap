@@ -1,0 +1,173 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1, h2, h3, h4, h5, h6, p{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Poppins',
+}
+.hero_section{
+    background-color: #F0FFF0;
+    min-height: 100vh;
+}
+.navbar.container-fluid{
+    background-color: #F0FFF0;
+}
+.sing_up{
+    border-radius: 30px;
+}
+#Books:hover{
+    text-decoration: underline 2px blue;
+}
+#Started:hover{
+    border-radius: 30px;
+}
+
+.banner_1 h4{
+    font-size: 16px;
+    color: #FD511A;
+    line-height: 24px;
+    font-weight: 400;
+}
+.banner_1 h1{
+    font-size: 48px;
+    color: #000000;
+    line-height: 70px;
+  
+}
+.banner_1 h1 span{
+    color: #21B573;
+}
+.banner_1 p{
+    font-size: 16px;
+    color: #6c6b6b;
+    line-height: 36px;
+    font-weight: 600;
+}
+.tareq{
+    font-size: 16px;
+   line-height: 19px;
+   background-color: #21B573;
+   border-radius: 50px;
+   color: #F0FFF0;
+   padding: 10px 15px;
+}
+.feature-content{
+    background-color: #f8fffb;
+    padding: 50px 0;
+}
+.feature-content img{
+    width: 20%;
+}
+.feature-content h2{
+    color: #413960;
+    font-size: 24px;
+    line-height: 36px;
+    margin-top: 15px;
+}
+.feature-content p{
+    color: #585859;
+    line-height: 24px;
+}
+.feature-content:hover{
+    color: #ffffff;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+.course{
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0px 10px 40px rgb(0 0 0 /10);
+    border-radius: 18px;
+}
+
+.course h2{
+    color: #413960;
+    font-size: 24px;
+    line-height: 36px;
+    margin-top: 30px;
+}
+.course h5{
+    font-size: 14px;
+    line-height: 24px;
+}
+.btn_course{
+    font-size: 16px;
+    line-height: 19px;
+    color: #fff;
+    padding: 6px 12px;
+    border-radius: 15px;
+    margin: 20px 0;
+    background: #21B573;
+}
+.btn_course:hover{
+    background-color: #158050;
+    color: #fff;
+}
+.course ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+
+}
+.course ul li{
+    color: #585859;
+    line-height: 24px;
+    font-size: 16px;
+}
+.course ul li i{
+    margin-right: 5px;
+}
+.headding h1{
+    font-size: 36px;
+    line-height: 56px;
+    text-align: center;
+}
+.caint{
+    width: 85px;
+    margin: auto;
+    margin-left: auto;
+}
+.testmunial p{
+    line-height: 30px;
+    color: #000000;
+}
+footer{
+    background-color: #282531;
+    color: #fff;
+}
+footer p{
+    font-size: 16px;
+    line-height: 30px;
+}
+footer ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+footer ul li a{
+
+text-decoration: none;
+padding: 15px 0;
+
+color: #fff;
+}
+footer h4{
+    font-size: 18px;
+    font-weight: bold;
+}
+footer ul li a:hover{
+    text-decoration:underline 2px blue;
+}
+.liyton h4{
+    text-align: center;
+    padding-top: 60px;
+    font-size: 18px;
+    
+}
+.liyton h4:hover{
+    text-decoration: underline 2px blue;
+}
